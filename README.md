@@ -13,6 +13,6 @@ A clean, fully reproducible PyTorch implementation of the End-to-End Memory Netw
 - Multi-hop attention mechanism
 - Position & Temporal encodings
 - Clean reproducible training script
--  - Automatic dataset download (bAbI v1.2)
+- Automatic dataset download (bAbI v1.2)
 - Works with both en and en-10k versions
 - Configurable memory size, hops, embedding dim, dropout, etc.
